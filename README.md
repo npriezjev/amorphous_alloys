@@ -1,6 +1,6 @@
 # amorphous_alloys Metallic Glasses
 
-amorphous_alloys/cu_zr_yielding_annealing.pdf:
+amorphous_alloys/cu_zr_yielding_annealing.pdf: 
 N. V. Priezjev, “Structural relaxation and delayed yielding in cyclically sheared Cu-Zr metallic glasses”, Metals 14, 984 (2024). https://doi.org/10.3390/met14090984
 
 amorphous_alloys/fatigue_yielding_cu_zr.pdf:
