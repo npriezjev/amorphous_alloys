@@ -1,7 +1,7 @@
 # Metallic Glasses
 
 •	cu_zr_yielding_annealing.pdf
-•	N. V. Priezjev, “Structural relaxation and delayed yielding in cyclically sheared Cu-Zr metallic glasses”, Metals 14, 984 (2024). https://doi.org/10.3390/met14090984
+•	N. V. Priezjev, “Structural relaxation and delayed yielding in cyclically sheared Cu-Zr metallic glasses”, *Metals* 14, 984 (2024). https://doi.org/10.3390/met14090984
 
 •	fatigue_yielding_cu_zr.pdf
 •	N. V. Priezjev, “Fatigue behavior of Cu-Zr metallic glasses under cyclic loading”, Metals 13, 1606 (2023). https://doi.org/10.3390/met13091606
